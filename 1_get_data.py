@@ -76,7 +76,7 @@ params = {
 }
 
 # Set the maximum number of results to download
-max_results = 10  # Adjust this value as needed
+max_results = 4000  # Adjust this value as needed
 total_downloaded = 0
 request_count = 0  # Request counter to apply pause
 retry_fail_count = 0  # Retry failure counter
